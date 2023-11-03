@@ -1,0 +1,75 @@
+25.08.2023 10:04:00 - Program Başladı
+25.08.2023 13:24:43 - Program Başladı
+25.08.2023 13:37:29 - Program Başladı
+25.08.2023 13:38:18 - Program Başladı
+25.08.2023 13:38:56 - Program Başladı
+25.08.2023 13:41:18 - Program Başladı
+25.08.2023 13:45:14 - Program Başladı
+25.08.2023 13:46:43 - Program Başladı
+25.08.2023 13:51:00 - Program Başladı
+25.08.2023 13:51:53 - Program Başladı
+25.08.2023 13:52:43 - Program Başladı
+25.08.2023 13:52:52 - Program Başladı
+25.08.2023 13:53:26 - Program Başladı
+25.08.2023 13:53:42 - Program Başladı
+25.08.2023 13:54:15 - Program Başladı
+25.08.2023 14:09:10 - Program Başladı
+25.08.2023 14:09:37 - Login/SignIn - mehmet@mehmet.com
+25.08.2023 14:09:41 - Personel/Profile Error - System.Net.WebException: Uzak sunucuya bağlanılamıyor ---> System.Net.Sockets.SocketException: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı 127.0.0.1:55778
+   konum: System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   konum: System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- İç özel durum yığını izlemesinin sonu ---
+   konum: System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   konum: System.Net.WebClient.DownloadString(Uri address)
+   konum: HRVacationSystemUI.Controllers.PersonelController.Profile(String email) C:\Users\KadirEfeBircanoglu\Desktop\yedek 2\HRVacationSystemHumanGroup\HRVacationSystemUI\Controllers\PersonelController.cs içinde: satır 53
+25.08.2023 15:38:07 - Program Başladı
+25.08.2023 15:45:37 - Program Başladı
+25.08.2023 15:54:39 - Program Başladı
+25.08.2023 15:56:20 - Program Başladı
+25.08.2023 15:57:18 - Program Başladı
+25.08.2023 15:58:59 - Program Başladı
+25.08.2023 15:59:46 - Program Başladı
+25.08.2023 16:19:41 - Program Başladı
+25.08.2023 16:22:15 - Program Başladı
+25.08.2023 16:24:40 - Program Başladı
+25.08.2023 16:26:12 - Program Başladı
+25.08.2023 16:27:43 - Program Başladı
+25.08.2023 16:28:11 - Program Başladı
+25.08.2023 17:26:06 - Program Başladı
+25.08.2023 17:33:35 - Program Başladı
+25.08.2023 17:36:02 - Program Başladı
+25.08.2023 17:37:06 - Program Başladı
+25.08.2023 17:39:29 - Program Başladı
+25.08.2023 17:40:28 - Program Başladı
+25.08.2023 17:43:03 - Program Başladı
+25.08.2023 17:45:04 - Program Başladı
+25.08.2023 17:47:11 - Program Başladı
+25.08.2023 17:51:28 - Program Başladı
+25.08.2023 21:49:07 - Program Başladı
+25.08.2023 21:52:06 - Program Başladı
+25.08.2023 21:58:20 - Program Başladı
+25.08.2023 22:01:34 - Program Başladı
+25.08.2023 22:02:01 - Program Başladı
+25.08.2023 22:07:45 - Program Başladı
+25.08.2023 22:40:34 - Program Başladı
+25.08.2023 22:40:50 - Program Başladı
+25.08.2023 22:44:42 - Program Başladı
+25.08.2023 22:45:59 - Program Başladı
+25.08.2023 22:47:14 - Program Başladı
+25.08.2023 22:49:01 - Program Başladı
+25.08.2023 22:49:43 - Program Başladı
+25.08.2023 22:50:41 - Program Başladı
+25.08.2023 22:53:36 - Program Başladı
+25.08.2023 22:54:54 - Program Başladı
+25.08.2023 22:57:57 - Program Başladı
+25.08.2023 23:15:57 - Program Başladı
+25.08.2023 23:16:47 - Program Başladı
+25.08.2023 23:18:37 - Program Başladı
+25.08.2023 23:19:21 - Program Başladı
+25.08.2023 23:20:48 - Program Başladı
+25.08.2023 23:28:24 - Program Başladı
+25.08.2023 23:29:29 - Program Başladı
+25.08.2023 23:29:57 - Program Başladı
+25.08.2023 23:44:20 - Program Başladı
+25.08.2023 23:45:40 - Program Başladı
+25.08.2023 23:46:58 - Program Başladı
